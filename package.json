@@ -1,0 +1,23 @@
+{
+  "name": "webpack-snippet-plugin",
+  "version": "1.0.0",
+  "description": "A Webpack Plugin to generate code dynamically",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggviana/webpack-snippet-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggviana/webpack-snippet-plugin/issues"
+  },
+  "homepage": "https://github.com/ggviana/webpack-snippet-plugin#readme",
+  "dependencies": {
+    "ejs": "^2.5.6"
+  }
+}
